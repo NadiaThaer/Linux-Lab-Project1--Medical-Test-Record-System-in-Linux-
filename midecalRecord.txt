@@ -1,0 +1,10 @@
+1300500: Hemoglobin (Hgb), 2024-03, 18.0, g/dL, completed
+1300500: White Blood Cell Count (WBC), 2024-03, 5.5, x10^9/L, completed
+1300500: Platelets (PLT), 2024-03, 200, x10^9/L, completed
+1300500: Glucose (GLU), 2024-03, 85, mg/dL, completed
+1234567: Hemoglobin (Hgb), 2024-03, 20, g/dL, completed
+1234567: Blood Glucose Test (BGT), 2024-03, 23, mg/dL, completed
+1300509: Hemoglobin (Hgb), 2024-03,23, g/dL, completed
+1300500: RBC, 2024-03, 13.5, mg/dL, completed
+1300511: LDL, 2024-03, 110, mg/dL, pending
+3333333: RBC, 2021-08, 12, , Pending
